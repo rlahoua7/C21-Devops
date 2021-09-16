@@ -1,0 +1,5 @@
+1. editor: het hoofd gebied om je files te editten
+2. side bar: Bevat verschillende weergaven zoals de Verkenner om u te helpen tijdens het werken aan uw project
+3. status bar: informatie over de geopende document
+4. activity bar: laat je schakelen tussen weergaven
+5. panels: U kunt verschillende panelen onder het editorgebied weergeven voor uitvoer- of foutopsporingsinformatie
